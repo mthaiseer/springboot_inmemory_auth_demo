@@ -7,7 +7,7 @@ There are 2 aspects for authentication
    * identify user has access to resources , if failed returns Http code 403
 
 
-##class responsible to configure authentication 
+#### class responsible to configure authentication 
  * WebSecurityConfigurerAdapter
 
 following method used to authenticate 
