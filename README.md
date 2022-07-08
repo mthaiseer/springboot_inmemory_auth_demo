@@ -120,5 +120,9 @@ As per above configuration
 
 ![img.png](img.png)
 
+peter(devops) cannot access to /developer/**
+
+![img_1.png](img_1.png)
+
 
 
