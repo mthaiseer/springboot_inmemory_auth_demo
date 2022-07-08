@@ -117,6 +117,7 @@ As per above configuration
  * peter can access /devops/** (peter, peter123)
  * cataina can  access both /developer/** and /devops/** (catalina, catalina123)
  * finally /guest/** accessible by anyone 
+
 ![img.png](img.png)
 
 
